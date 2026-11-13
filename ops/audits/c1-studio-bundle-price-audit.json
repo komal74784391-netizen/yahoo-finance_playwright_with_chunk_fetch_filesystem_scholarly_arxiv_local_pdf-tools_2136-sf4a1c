@@ -1,0 +1,45 @@
+{
+  "bundle_sku": "C1-STUDIO-BUNDLE",
+  "segment": "campus-program",
+  "price_list": "SKY-EDU-2026Q4",
+  "reporting_currency": "USD",
+  "fx_contract": "SKY-FX-2026Q4",
+  "as_of": "2026-11-13",
+  "markets": [
+    {
+      "market": "SG",
+      "currency": "SGD",
+      "storefront_url": "https://raw.githubusercontent.com/komal74784391-netizen/yahoo-finance_playwright_with_chunk_fetch_filesystem_scholarly_arxiv_local_pdf-tools_2136-sf4a1c/main/storefront/sg/campus-price-list/bundle.html",
+      "waived_components": [
+        "C1-PEN3",
+        "C1-CARE36"
+      ],
+      "payable_local": 2168,
+      "payable_usd": 1611.04
+    },
+    {
+      "market": "HK",
+      "currency": "HKD",
+      "storefront_url": "https://raw.githubusercontent.com/komal74784391-netizen/yahoo-finance_playwright_with_chunk_fetch_filesystem_scholarly_arxiv_local_pdf-tools_2136-sf4a1c/main/storefront/hk/campus-price-list/bundle.html",
+      "waived_components": [
+        "C1-PEN3",
+        "C1-STAND",
+        "C1-CARE36"
+      ],
+      "payable_local": 11439,
+      "payable_usd": 1463.05
+    },
+    {
+      "market": "GB",
+      "currency": "GBP",
+      "storefront_url": "https://raw.githubusercontent.com/komal74784391-netizen/yahoo-finance_playwright_with_chunk_fetch_filesystem_scholarly_arxiv_local_pdf-tools_2136-sf4a1c/main/storefront/gb/campus-price-list/bundle.html",
+      "waived_components": [
+        "C1-STAND"
+      ],
+      "payable_local": 1312,
+      "payable_usd": 1754.41
+    }
+  ],
+  "cheapest_market": "HK",
+  "cheapest_payable_usd": 1463.05
+}
