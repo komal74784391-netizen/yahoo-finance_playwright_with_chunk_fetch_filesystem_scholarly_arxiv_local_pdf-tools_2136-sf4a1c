@@ -1,0 +1,13 @@
+{
+  "contract": "SKY-FX-2026Q4",
+  "reporting_currency": "USD",
+  "effective_from": "2026-10-01",
+  "effective_to": "2026-12-31",
+  "rates_usd_per_unit": {
+    "SGD": 0.7431,
+    "HKD": 0.1279,
+    "GBP": 1.3372
+  },
+  "rounding": "Convert the summed local-currency payable total to USD and round the result to 2 decimals.",
+  "note": "Contractual quarterly planning rates. Do not substitute spot rates for internal comparison."
+}
